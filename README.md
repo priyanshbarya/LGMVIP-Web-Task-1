@@ -2,6 +2,9 @@
 
 This is a simple Todo List project created using React.js, HTML, and CSS. It allows users to add tasks, remove tasks, and mark tasks as done.
 
+## Link to hosting platform
+    https://lgmvip-web-task-1-sigma.vercel.app/
+
 ## Features
 
 - **Add Task**: Users can add new tasks to the list by entering a task description and clicking the "Add Task" button.
