@@ -3,7 +3,7 @@
 This is a simple Todo List project created using React.js, HTML, and CSS. It allows users to add tasks, remove tasks, and mark tasks as done.
 
 ## Link to hosting platform
-    https://lgmvip-web-task-2-theta.vercel.app/
+    https://lgmvip-web-task-1-sigma.vercel.app/
 
 ## Features
 
